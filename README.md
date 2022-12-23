@@ -39,12 +39,12 @@ python mario_dueling_ddqn.py
 
 ## Pre-trained
 
-- link
+- stored in `./pretrained`
 
 ## Checkpoint
 
-- stored in `./checkpoints`
+- stored in `./checkpoints` during training
 
 ## Visualization
 
-- stored in `./vis`
+- stored in `./vis` during training
